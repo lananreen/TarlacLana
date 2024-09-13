@@ -1,0 +1,20 @@
+body{
+    background-color:#FAD2BB;
+}
+h1,h2,h3{
+    color:#F5A6A6;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-size:40px;
+    text-shadow: 1px 1px 2px #000000;
+}
+p{
+    color:#F5A6A6;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-size:15px;
+    text-shadow: 1px 1px 1px #000000;
+}
+footer{
+    background-color:#dbbba8;
+}
